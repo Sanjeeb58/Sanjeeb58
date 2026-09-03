@@ -1,74 +1,118 @@
-# Hi, I'm Sanjeeb Kumar 👋
+# Hi, I'm Sanjeeb Kumar Pothal 👋
 
-### Computer Science Graduate | Python Developer | Automation & AI Enthusiast
+### Computer Science Graduate | AI/ML | Python | NLP | Computer Vision
 
-I'm a Computer Science graduate interested in building practical software, automating repetitive tasks, and exploring how AI can be integrated into real-world applications. I enjoy working with Python and learning how different parts of the software development and testing lifecycle fit together.
+I'm a Computer Science graduate specializing in **Artificial Intelligence and Machine Learning**, with hands-on experience building practical AI and software applications.
 
-My current focus is on **Python development, test automation, software testing, and AI-driven applications**, while continuously strengthening my foundations in data structures, databases, APIs, and software engineering practices.
+My interests lie at the intersection of **machine learning, natural language processing, computer vision, and software development**. I enjoy turning ideas into working applications—from training and evaluating ML models to building APIs, integrating databases, and creating user-facing interfaces.
+
+I primarily work with **Python**, while also having experience with Java, SQL, TensorFlow, Scikit-learn, OpenCV, React, Flask, Spring Boot, and MySQL.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:**
-Python, SQL, C/C++
+**Languages:**  
+Python • Java • SQL
 
-**Automation & Testing:**
-Selenium, Web Automation, API Testing, Functional Testing, Integration Testing, End-to-End Testing, Test Case Design
+**AI / Machine Learning:**  
+Machine Learning • Deep Learning • NLP • TensorFlow • Scikit-learn
 
-**Development & Data:**
-Python, Pandas, NumPy, REST APIs, File Handling, Exception Handling
+**Computer Vision:**  
+OpenCV • CNN • CNN-LSTM • Image Processing
 
-**AI / Data:**
-Machine Learning fundamentals, Data Analysis, AI-assisted applications
+**Web & Backend:**  
+React • Python Flask • Java Spring Boot • REST APIs
 
-**Tools & Technologies:**
-Git, GitHub, VS Code, Jupyter Notebook
+**Databases:**  
+MySQL • SQLite
 
-**Core Concepts:**
-Object-Oriented Programming, Data Structures & Algorithms, DBMS, Software Development Life Cycle, Software Testing Life Cycle
-
----
-
-## 🚀 Projects
-
-### 🔬 Multi-Omics Analysis of *E. coli* and Ciprofloxacin
-
-A bioinformatics-focused project involving the analysis of multi-omics data to investigate molecular changes associated with ciprofloxacin response in *E. coli*.
-
-**Technologies:** Python, Pandas, NumPy, Data Analysis, Bioinformatics
-
-### 🤖 Python Automation & Testing Projects
-
-A collection of practical automation exercises focused on browser automation, test-case implementation, validation, and handling real-world testing scenarios.
-
-**Technologies:** Python, Selenium, Automation Testing
-
-### 🐍 Python Problem-Solving & Programming
-
-A collection of Python programs covering data manipulation, file handling, error handling, tuples, dictionaries, functions, and common programming problems.
-
-**Technologies:** Python
-
-> I'm continuously adding new projects and improving existing ones as I learn.
+**Tools:**  
+Git • GitHub • Google Colab • Pandas
 
 ---
 
-## 🎯 What I'm Currently Learning
+## 🚀 Featured Projects
 
-* Building reliable automation frameworks
-* Writing maintainable and reusable Python code
-* API and end-to-end testing
-* Working with AI and machine-learning tools
-* Improving problem-solving and data-structure skills
-* Applying Git and software-engineering practices to real projects
+### 🔬 Micro-Expression Lie Detector
+
+A computer-vision-based deep learning system designed to detect micro-expressions associated with deception.
+
+- Achieved **90%+ accuracy** on benchmark datasets.
+- Used optimized **CNN-LSTM modeling** and feature extraction.
+- Focused on improving the reliability of real-time deception recognition.
+
+**Tech:** `Python` `OpenCV` `TensorFlow` `Pandas`
+
+---
+
+### 🧠 Sentiment Analysis for Mental Health
+
+A multi-class NLP system for classifying mental health-related conditions such as **Anxiety, Depression, and Stress**.
+
+- Developed and optimized an **LSTM/BERT-based model**.
+- Achieved **75% accuracy with an F1-score of 0.75**.
+- Applied text preprocessing, hyperparameter tuning, and performance evaluation.
+
+**Tech:** `Python` `NLP` `LSTM` `BERT` `Scikit-learn`
+
+---
+
+### 🌾 AgriDetect AI
+
+An AI-powered agricultural platform designed to help identify crop diseases and provide actionable information to farmers.
+
+- Built using **React and Python Flask**.
+- Implemented an **EfficientNet-B3** model for crop disease classification.
+- Integrated **Google Gemini API** to generate context-aware mitigation recommendations.
+- Used SQLite for maintaining detection history.
+
+**Tech:** `React` `Python` `Flask` `TensorFlow` `SQLite` `Gemini API`
+
+---
+
+### 🔗 Concisea – URL Shortening Platform
+
+A URL shortening platform supporting custom link generation, redirection, and analytics.
+
+- Implemented database storage for scalable link management.
+- Optimized database queries to improve retrieval speed by **30%**.
+- Built the backend using Java Spring Boot and MySQL.
+
+**Tech:** `Java` `Spring Boot` `MySQL`
+
+---
+
+## 🎓 Background
+
+I completed my **Bachelor of Technology in Computer Science & Engineering (AI & ML)** from C. V. Raman Global University.
+
+During my academic journey, I worked on projects involving AI, NLP, computer vision, and full-stack development. I also gained practical industry exposure through an **AI/ML & Full Stack Virtual Internship with Infosys Springboard**, where I worked with React, Python Flask, and TensorFlow. :contentReference[oaicite:2]{index=2}
+
+I'm particularly interested in opportunities where I can continue developing my skills in **AI/ML and software engineering** while working on practical, real-world problems.
+
+---
+
+## 📚 Currently Exploring
+
+- Machine Learning & Deep Learning
+- Generative AI and LLM applications
+- Natural Language Processing
+- Computer Vision
+- Python software development
+- Full-stack AI applications
+- REST API development
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning from other developers, collaborating on interesting projects, and discussing software development, automation, Python, and AI.
+I'm always open to learning, collaborating on interesting projects, and connecting with people working in AI, machine learning, and software development.
 
-If you find something useful in my repositories or have an idea worth building together, feel free to explore my projects and connect with me.
+Feel free to explore my repositories. If you find something interesting or would like to collaborate, **I'd be happy to connect!**
 
-**Thanks for stopping by! ⭐**
+📧 **Email:** sanjeebpothal2004@gmail.com  
+💼 **LinkedIn:** [Sanjeeb Kumar Pothal](https://www.linkedin.com/in/sanjeeb-kumar-pothal)  
+🐙 **GitHub:** [Sanjeeb58](https://github.com/Sanjeeb58)
+
+⭐ Thanks for visiting my profile!
